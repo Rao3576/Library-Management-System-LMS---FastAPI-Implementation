@@ -58,3 +58,6 @@ The system supports three user roles:
 * Admin/Manager can view all logs
 * Students can only view their own logs
 # Library-Management-System-LMS---FastAPI-Implementation
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84c0d075-c840-485b-95fe-17faa18a7013" />
+
